@@ -1,0 +1,229 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+body{
+    font-family: "inter";
+}
+
+/* Card top */
+
+.card {}
+
+.card__top {}
+
+.tree{
+    width: 141px;
+height: 94px;
+position: absolute;
+margin-top: 240px;
+margin-left: 122px;
+}
+
+.left__eyebrow{
+    width: 29px;
+height: 16px;
+position: absolute;
+margin-left: 269px;
+margin-top: 66px;
+}
+
+.right__eyebrow{
+    width: 26px;
+height: 16px;
+    position: absolute;
+    margin-left: 298px;
+    margin-top: 71px;
+
+}
+
+.giant__img{
+    width: 342px;
+height: 305px;
+position: absolute;
+margin-top: 50px;
+margin-left: 125px;
+}
+
+.giant__bg {
+    /* Giant bg */
+    width: 300px;
+    height: 230px;
+    border-top-right-radius: 14px;
+    border-top-left-radius: 14px;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+
+/* Card mid */
+.card__mid{
+    width: 300px;
+    height: 213px;
+    background-color: #FFF;
+    margin-top: -4px ;
+    margin-left: 150px;
+    box-shadow: 0px 4px 13px 4px rgba(0, 0, 0, 0.25);
+}
+.mid__level{
+    position: absolute;
+    margin-top: 37px;
+    margin-left: 120px;
+    color: #F6911B;
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.6px;
+}
+.mid__title{
+    position: absolute;
+    color: #000;
+margin-top: 60px;
+margin-left: 90px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.content__mid{
+    position: absolute;
+margin-top: 100px;
+margin-left: 13px;
+width: 273px;
+height: 78px;
+color: #9E9E9E;
+text-align: center;
+font-family: Inter;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 150.746%; /* 19.597px */
+}
+
+/* Card bottom */
+.card__bottom{
+margin-left: 150px;
+margin-top: 0px;
+}
+.left__bottom{
+    width: 98px;
+height: 90px;
+border-radius: 0px 0px 0px 14px;
+border-right: 1px solid #DE7B08;
+
+background: #F6911B;
+
+box-shadow: -5px 4px 13px 0px rgba(0, 0, 0, 0.25);
+}
+.trainning{
+    color: #FFF;
+    position: absolute;
+    margin-top: 52px;
+    margin-left: 20px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.two{
+    color: #FFF;
+    position: absolute;
+    margin-top: 16px;
+    margin-left: 42px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.m{
+    color: #FFF;
+    position: absolute;
+    margin-top: 18px;
+    margin-left: 58px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.mid__bottom{
+    width: 98px;
+height: 90px;
+position: absolute;
+margin-top: -90px;
+margin-left: 98px;
+border-right: 1px solid #DE7B08;
+
+background: #F6911B;
+
+box-shadow: 1px 4px 13px 0px rgba(0, 0, 0, 0.25);
+
+}
+.speed{
+    color: #FFF;
+    position: absolute;
+    margin-top: 52px;
+    margin-left: 30px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.twelve{
+    color: #FFF;
+    position: absolute;
+    margin-top: 16px;
+    margin-left: 37px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.bottom__right{
+    width: 104px;
+    height: 90px;
+    border-bottom-right-radius: 14px;
+    border-left: 1px solid #DE7B08;
+    background: #F6911B;
+    position: absolute;
+margin-top: -90px;
+margin-left: 196px;
+}
+.cost{
+    color: #FFF;
+    position: absolute;
+    margin-top: 52px;
+    margin-left: 33px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.twothousand{
+    color: #FFF;
+    position: absolute;
+    margin-top: 16px;
+    margin-left: 19px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
